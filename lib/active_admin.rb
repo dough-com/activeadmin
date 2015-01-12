@@ -25,7 +25,6 @@ module ActiveAdmin
   autoload :ControllerAction,         'active_admin/controller_action'
   autoload :CSVBuilder,               'active_admin/csv_builder'
   autoload :Deprecation,              'active_admin/deprecation'
-  autoload :Devise,                   'active_admin/devise'
   autoload :DSL,                      'active_admin/dsl'
   autoload :Event,                    'active_admin/event'
   autoload :FormBuilder,              'active_admin/form_builder'
